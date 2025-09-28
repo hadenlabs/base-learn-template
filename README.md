@@ -96,3 +96,5 @@ The code and styles are licensed under the LGPL-3.0 license [See project license
 <!-- Security scan triggered at 2025-09-09 05:31:58 -->
 
 <!-- Security scan triggered at 2025-09-09 05:57:42 -->
+
+<!-- Security scan triggered at 2025-09-28 15:34:54 -->
